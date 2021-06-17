@@ -1,0 +1,11 @@
+/
+/swagger/**
+/webjars/**
+/swagger-resources/**
+/v2/**
+/csrf/**
+/swagger-ui.html
+/approvalProcess/imgByDeployId
+/swagger-ui/**
+/v3/api-docs
+/favicon.ico
